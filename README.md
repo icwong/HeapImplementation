@@ -1,3 +1,3 @@
 # Heap Implementation
 
-Using heap implementation on a priority queue.
+Using a heap to implement a priority queue. I created a C++ heap class, which stores pairs consisting of an element and priority value in integer.
